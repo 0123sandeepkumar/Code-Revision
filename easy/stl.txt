@@ -1,0 +1,20 @@
+Remove Duplicates: Given an array, remove all duplicate elements in-place using the STL.
+
+Count Frequencies: Given an array of integers, count the frequency of each element and store the results in a map using the STL.
+
+Rearrange Strings: Given a string, rearrange its characters such that no two adjacent characters are the same. You can assume that the string only contains lowercase English letters. Use the STL to solve this problem efficiently.
+
+Sort Characters by Frequency: Given a string, sort the characters in descending order based on their frequency using the STL.
+
+Kth Largest Element: Given an array of integers, find the kth largest element using the STL.
+
+Meeting Rooms: Given a list of intervals representing meeting start and end times, determine if a person can attend all meetings using the STL.
+
+Group Anagrams: Given an array of strings, group the anagrams together using the STL.
+
+First Unique Character in a String: Given a string, find the first non-repeating character using the STL.
+
+Longest Consecutive Sequence: Given an unsorted array of integers, find the longest consecutive sequence using the STL.
+
+Priority Queue Implementation: Implement a priority queue using the STL, and perform operations like insertion, deletion, and retrieval efficiently.
+

@@ -1,0 +1,19 @@
+Binary Search: Implement the binary search algorithm to find a target element in a sorted array.
+
+Merge Sort: Sort an array using the merge sort algorithm, which divides the array into smaller subarrays, sorts them, and merges them back together.
+
+Count Inversions: Given an array, count the number of inversions, i.e., the number of pairs (i, j) such that i < j and arr[i] > arr[j].
+
+Maximum Subarray Sum: Find the contiguous subarray with the largest sum in an array.
+
+Closest Pair of Points: Given an array of points in a 2D plane, find the pair of points with the smallest Euclidean distance between them.
+
+Matrix Multiplication: Implement a divide and conquer algorithm to multiply two matrices efficiently.
+
+Kth Smallest Element in an Array: Find the Kth smallest element in an unsorted array.
+
+Majority Element: Find the element that appears more than n/2 times in an array of size n.
+
+Longest Common Prefix: Given an array of strings, find the longest common prefix among them using a divide and conquer approach.
+
+Search in a Sorted Rotated Array: Given a sorted array that has been rotated, find a target element using a divide and conquer strategy.

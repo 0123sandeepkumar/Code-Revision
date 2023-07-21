@@ -1,0 +1,19 @@
+Graph Traversal (DFS/BFS): Implement depth-first search (DFS) or breadth-first search (BFS) to traverse a graph and visit all its nodes.
+
+Connected Components: Given an undirected graph, find the number of connected components or identify the nodes in each connected component.
+
+Topological Sorting: Given a directed acyclic graph (DAG), perform a topological sort to order the nodes in a linear order where each node comes before its dependencies.
+
+Shortest Path: Find the shortest path between two nodes in a weighted graph using algorithms such as Dijkstra's algorithm or Bellman-Ford algorithm.
+
+Cycle Detection: Determine whether a given directed or undirected graph contains a cycle.
+
+Minimum Spanning Tree: Find the minimum spanning tree (MST) of a connected, weighted graph using algorithms like Prim's algorithm or Kruskal's algorithm.
+
+Graph Coloring: Determine if a graph can be colored with a given number of colors such that no two adjacent nodes have the same color.
+
+Bipartite Graph: Determine whether a graph is bipartite, i.e., the nodes can be divided into two disjoint sets such that there are no edges between nodes in the same set.
+
+Clone Graph: Create a deep copy of a graph, where each node and its connections are duplicated.
+
+Word Ladder: Given two words and a dictionary of valid words, find the shortest transformation sequence from the start word to the end word, where only one letter can be changed at a time, and each intermediate word must exist in the dictionary.

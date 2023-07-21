@@ -1,0 +1,20 @@
+Implement Queue using Stacks: Design a queue data structure using two stacks and implement the enqueue, dequeue, and peek operations.
+
+Design Circular Queue: Design a circular queue data structure that supports the enqueue and dequeue operations, as well as checking if the queue is full or empty.
+
+Implement Stack using Queues: Design a stack data structure using two queues and implement the push, pop, and top operations.
+
+First Unique Character in a Stream: Given a stream of characters, find the first unique character at each step.
+
+Implement Recent Counter: Design a data structure to count the number of recent requests within a specific time frame.
+
+Number of Islands: Given a grid representing a map, count the number of islands present. An island is a group of connected 1s (representing land) surrounded by 0s (representing water).
+
+Sliding Window Maximum: Given an array and an integer k, find the maximum element in each sliding window of size k.
+
+Rotting Oranges: Given a grid with fresh and rotten oranges, determine the minimum number of minutes it takes for all the oranges to become rotten.
+
+Moving Average from Data Stream: Given a stream of integers and a window size, calculate the moving average of all integers in the window.
+
+Binary Tree Level Order Traversal: Traverse a binary tree in level order using a queue data structure.
+

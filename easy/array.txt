@@ -1,0 +1,19 @@
+Two Sum: Given an array of integers and a target sum, find two numbers that add up to the target.
+
+Maximum Subarray Sum: Find the contiguous subarray with the largest sum in an array.
+
+Product of Array Except Self: Given an array, calculate the product of all elements except the current element for each index.
+
+Rotate Array: Rotate an array by a given number of steps.
+
+Merge Intervals: Given a collection of intervals, merge overlapping intervals.
+
+Missing Number: Find the missing number in an array containing all other numbers from 0 to n except one.
+
+Spiral Matrix: Given a matrix, return the elements in spiral order.
+
+Trapping Rain Water: Given an array representing the heights of bars, calculate the total amount of rainwater that can be trapped between the bars.
+
+Container With Most Water: Given an array of non-negative integers representing vertical lines, find two lines that together with the x-axis form a container that holds the most water.
+
+Next Permutation: Given an array of integers, find the next lexicographically greater permutation.

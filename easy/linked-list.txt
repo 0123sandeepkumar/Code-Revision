@@ -1,0 +1,19 @@
+Reverse a Linked List: Reverse a singly linked list in-place.
+
+Remove Nth Node From End of List: Given a linked list, remove the nth node from the end of the list and return the modified list.
+
+Merge Two Sorted Lists: Merge two sorted linked lists into a single sorted list.
+
+Detect Cycle in a Linked List: Determine if a linked list contains a cycle and return the node where the cycle starts if present.
+
+Intersection of Two Linked Lists: Find the node at which two linked lists intersect, or return null if they do not intersect.
+
+Remove Duplicates from Sorted List: Given a sorted linked list, remove duplicates, leaving only distinct elements in the list.
+
+Palindrome Linked List: Determine if a linked list is a palindrome.
+
+Swap Nodes in Pairs: Swap every two adjacent nodes in a linked list.
+
+Reverse Nodes in k-Group: Reverse the nodes of a linked list in groups of size k.
+
+Copy List with Random Pointer: Make a deep copy of a linked list with each node containing an additional random pointer.

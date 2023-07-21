@@ -1,0 +1,19 @@
+N-Queens: Place N queens on an N×N chessboard such that no two queens threaten each other.
+
+Combination Sum: Given a set of candidate numbers and a target sum, find all unique combinations where the candidates sum up to the target.
+
+Permutations: Generate all possible permutations of a given set of elements.
+
+Subsets: Generate all possible subsets of a given set of distinct integers.
+
+Sudoku Solver: Solve a partially filled Sudoku board using backtracking.
+
+Letter Combinations of a Phone Number: Given a string containing digits, return all possible letter combinations that the number could represent on a phone keypad.
+
+Generate Parentheses: Generate all valid combinations of n pairs of parentheses.
+
+Word Search: Given a 2D board of letters and a word, determine if the word exists in the board.
+
+Palindrome Partitioning: Partition a string into all possible palindrome substrings.
+
+Restore IP Addresses: Given a string containing only digits, restore all possible valid IP address combinations.

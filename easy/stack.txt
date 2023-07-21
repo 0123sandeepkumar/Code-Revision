@@ -1,0 +1,19 @@
+Valid Parentheses: Given a string containing only parentheses ('(', ')', '{', '}', '[', ']'), determine if the parentheses are valid and properly balanced.
+
+Evaluate Reverse Polish Notation: Given an arithmetic expression in Reverse Polish Notation (postfix notation), evaluate it using a stack.
+
+Next Greater Element: Given an array, for each element, find the next element in the array that is greater than the current element. Return the result as an array.
+
+Largest Rectangle in Histogram: Given an array representing the heights of bars in a histogram, find the area of the largest rectangle that can be formed.
+
+Min Stack: Design a stack that supports push, pop, top, and retrieving the minimum element in constant time.
+
+Simplify Path: Given an absolute path for a file (Unix-style), simplify it by removing unnecessary ".." and "." path components.
+
+Exclusive Time of Functions: Given a list of function logs, where each log contains a function ID, a start or end timestamp, and whether it is a start or end event, calculate the exclusive time of each function.
+
+Trapping Rain Water: Given an array representing the heights of bars, calculate the total amount of rainwater that can be trapped between the bars.
+
+Baseball Game: Given a list of strings representing valid operations (integer, '+', 'D', 'C') in a baseball game, calculate the total score.
+
+Decode String: Given an encoded string, decode it based on certain rules using a stack.

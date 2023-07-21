@@ -1,0 +1,39 @@
+Fibonacci Series: Write a dynamic programming algorithm to efficiently calculate the nth Fibonacci number.
+
+0/1 Knapsack Problem: Given a set of items, each with a weight and value, determine the maximum value you can obtain while keeping the total weight below a certain limit.
+
+Longest Common Subsequence: Given two strings, find the length of their longest common subsequence.
+
+Longest Increasing Subsequence: Given an array of integers, find the length of the longest increasing subsequence.
+
+Coin Change Problem: Given a set of coin denominations and a target amount, find the minimum number of coins required to make up that amount.
+
+Edit Distance: Given two strings, find the minimum number of operations (insertions, deletions, and substitutions) required to transform one string into the other.
+
+Maximum Sum Subarray: Given an array of integers, find the contiguous subarray with the largest sum.
+
+Unique Paths: Given a grid of m x n, find the number of unique paths from the top-left corner to the bottom-right corner, with the restriction of moving only down or right.
+
+Rod Cutting Problem: Given a rod of length n and a table of prices for rod pieces of different lengths, determine the maximum value that can be obtained by cutting the rod into smaller pieces and selling them.
+
+Palindrome Partitioning: Given a string, partition it into as few substrings as possible such that each substring is a palindrome.
+
+TYPES-----------
+
+Memoization/Top-down Approach: In this type of question, you are given a problem that can be solved recursively, and you need to optimize it using memoization. You can store the results of subproblems in a cache (like a hash table or an array) to avoid redundant calculations.
+
+Tabulation/Bottom-up Approach: In this type of question, you need to solve the problem by building up the solution iteratively, starting from the base case and gradually solving larger subproblems. This approach typically involves using a table or an array to store intermediate results.
+
+Longest Common Subsequence (LCS): Given two strings, you need to find the length of their longest common subsequence or the subsequence itself. This is a classic dynamic programming problem and often involves creating a 2D table to store intermediate results.
+
+0/1 Knapsack Problem: Given a set of items with weights and values, and a knapsack with a weight capacity, you need to determine the maximum value that can be achieved by selecting a subset of items without exceeding the knapsack's weight capacity.
+
+Coin Change Problem: Given a set of coin denominations and a target amount, you need to find the minimum number of coins required to make up the target amount. This problem often involves creating a table to store minimum counts of coins for different target amounts.
+
+Maximum Subarray Sum: Given an array of integers, you need to find the contiguous subarray with the largest sum. This problem can be solved using dynamic programming by keeping track of the maximum subarray sum at each position.
+
+Matrix Chain Multiplication: Given a sequence of matrices, you need to determine the most efficient way to multiply them together, minimizing the total number of multiplications required. This problem often involves creating a table to store intermediate results.
+
+Edit Distance: Given two strings, you need to find the minimum number of operations (insertions, deletions, and substitutions) required to transform one string into the other. This problem can be solved using dynamic programming by building a table to store the minimum operations for different positions.
+
+

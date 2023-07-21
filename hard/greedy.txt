@@ -1,0 +1,19 @@
+Activity Selection: Given a list of activities with their start and finish times, select the maximum number of activities that can be performed without overlapping.
+
+Fractional Knapsack: Given a set of items with their weights and values, fill a knapsack with a maximum weight capacity while maximizing the total value. Items can be divided (fractional knapsack problem).
+
+Jump Game: Determine if it is possible to reach the last index of an array by jumping through its elements. Each element represents the maximum number of steps that can be taken from that position.
+
+Coin Change: Given a target amount and a set of coin denominations, find the minimum number of coins needed to make up the target amount.
+
+Minimum Spanning Tree: Find the minimum spanning tree (MST) of a connected, weighted graph using Kruskal's or Prim's algorithm.
+
+Interval Scheduling: Given a set of intervals, find the maximum number of non-overlapping intervals that can be selected.
+
+Task Scheduling: Given a set of tasks with their durations and deadlines, schedule the tasks in a way that minimizes the maximum lateness.
+
+Gas Station: Given a circular route with gas stations and the amount of gas available at each station, find the starting gas station from which you can complete the entire route.
+
+Minimum Number of Arrows to Burst Balloons: Given a set of balloons with different start and end points, find the minimum number of arrows required to burst all the balloons.
+
+Non-overlapping Intervals: Given a collection of intervals, find the minimum number of intervals you need to remove to make the rest of the intervals non-overlapping.

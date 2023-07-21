@@ -1,0 +1,43 @@
+BITWISE-OPERATOR---------------
+
+Bitwise AND of Numbers Range: Given two integers left and right, return the bitwise AND of all numbers in the range [left, right].
+
+Number of 1 Bits: Write a function that takes an unsigned integer and returns the number of '1' bits it has.
+
+Single Number: Given an array of integers where every element appears twice except for one, find that single number.
+
+Bitwise ORs of Subarrays: Given an array of integers, find the number of unique bitwise ORs of all possible subarrays.
+
+Reverse Bits: Reverse the bits of a given 32-bit unsigned integer.
+
+Power of Two: Given an integer, determine if it is a power of two.
+
+Counting Bits: Given a non-negative integer num, for every integer i (0 ≤ i ≤ num), calculate the number of 1 bits in its binary representation.
+
+Maximum XOR of Two Numbers in an Array: Given an integer array nums, find the maximum XOR of any two elements in it.
+
+Missing Number: Given an array containing n distinct numbers taken from 0, 1, 2, ..., n, find the missing number.
+
+Bitwise AND of Numbers Range: Given a non-negative integer num, find the number of 0 bits in its binary representation
+
+BIT-MANIPULATION-----------------
+
+Single Number: Given an array of integers where every element appears twice except for one, find that single number.
+
+Reverse Bits: Reverse the bits of a given 32-bit unsigned integer.
+
+Number of 1 Bits: Write a function that takes an unsigned integer and returns the number of '1' bits it has.
+
+Power of Two: Given an integer, determine if it is a power of two.
+
+Counting Bits: Given a non-negative integer num, for every integer i (0 ≤ i ≤ num), calculate the number of 1 bits in its binary representation.
+
+Bitwise AND of Numbers Range: Given two integers left and right, return the bitwise AND of all numbers in the range [left, right].
+
+Maximum XOR of Two Numbers in an Array: Given an integer array nums, find the maximum XOR of any two elements in it.
+
+Hamming Distance: Calculate the Hamming distance between two integers, which is the number of positions at which the corresponding bits are different.
+
+Sum of Two Integers: Given two integers a and b, calculate their sum without using the + or - operators.
+
+Find the Difference: Given two strings, find the difference in bit representation between them.

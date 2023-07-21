@@ -1,0 +1,43 @@
+GRID--------------------
+
+Number of Islands: Given a grid of '1's (land) and '0's (water), count the number of islands in the grid. An island is formed by connecting adjacent lands horizontally or vertically.
+
+Word Search: Given a 2D grid of characters and a word, determine if the word exists in the grid. The word can be constructed from adjacent characters horizontally or vertically.
+
+Unique Paths: Given a grid of size m x n, find the number of unique paths from the top-left corner to the bottom-right corner. You can only move right or down.
+
+Maximum Area of Island: Given a grid of '1's (land) and '0's (water), find the maximum area of an island in the grid. An island is formed by connecting adjacent lands horizontally or vertically.
+
+Rotting Oranges: Given a grid where each cell can be either empty, fresh oranges ('1'), or rotten oranges ('2'), determine the minimum number of minutes required to rot all the oranges. Rotten oranges can rot adjacent fresh oranges in minutes.
+
+Island Perimeter: Given a grid of '1's (land) and '0's (water), calculate the perimeter of the island formed by connecting adjacent lands horizontally or vertically.
+
+Pacific Atlantic Water Flow: Given a grid representing the height of a continent, determine all positions from which water can flow to both the Pacific and Atlantic oceans. Water can only flow from a cell to its neighboring cells with equal or lower heights.
+
+Dungeon Game: Given a grid representing a dungeon, find the minimum initial health needed to reach the bottom-right corner. You start at the top-left corner and can only move down or right. Each cell represents either a positive or negative amount of health.
+
+Game of Life: Given a grid representing the board game "Game of Life," update the grid to its next state based on the given rules.
+
+Spiral Matrix: Given an integer n, generate an n x n matrix filled with elements from 1 to n^2 in spiral order.
+
+PATH---------------------
+
+Unique Paths: Given a grid of size m x n, find the number of unique paths from the top-left corner to the bottom-right corner. You can only move right or down.
+
+Minimum Path Sum: Given a grid filled with non-negative numbers, find the minimum sum path from the top-left corner to the bottom-right corner. You can only move right or down.
+
+Robot in a Grid: Given a grid with obstacles and a robot located at the top-left corner, find a path for the robot to reach the bottom-right corner. The robot can only move right or down and cannot step on obstacles.
+
+Word Search: Given a 2D grid of characters and a word, determine if the word exists in the grid. The word can be constructed from adjacent characters horizontally or vertically.
+
+Number of Islands: Given a grid of '1's (land) and '0's (water), count the number of islands in the grid. An island is formed by connecting adjacent lands horizontally or vertically.
+
+Knight's Tour: Given a chessboard, find a sequence of moves for a knight to visit every square on the board exactly once.
+
+Longest Increasing Path in a Matrix: Given an integer matrix, find the length of the longest increasing path. The path can move in any of the four cardinal directions.
+
+All Paths from Source to Target: Given a directed acyclic graph (DAG) with n nodes, find all possible paths from node 0 (source) to node n-1 (target).
+
+Unique Paths III: Given a grid where some cells are empty, some cells are obstacles, and one cell is the starting point, and another cell is the ending point, find the number of unique paths from the start to the end, visiting every empty cell exactly once.
+
+Shortest Path in a Maze: Given a maze represented as a 2D grid of 0s and 1s, find the length of the shortest path from the top-left corner to the bottom-right corner. You can only move up, down, left, or right.

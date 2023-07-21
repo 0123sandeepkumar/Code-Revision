@@ -1,0 +1,19 @@
+Two Sum: Given an array of integers and a target sum, find two numbers that add up to the target.
+
+Four Sum: Given an array of integers and a target sum, find all unique quadruplets that add up to the target.
+
+Longest Consecutive Sequence: Given an unsorted array of integers, find the longest consecutive sequence of elements.
+
+Group Anagrams: Given an array of strings, group the anagrams together.
+
+Subarray Sum Equals K: Given an array of integers, find the total number of continuous subarrays whose sum equals a target value.
+
+Longest Substring Without Repeating Characters: Given a string, find the length of the longest substring without repeating characters.
+
+Isomorphic Strings: Determine if two strings are isomorphic, meaning the characters in one string can be replaced to get the other string.
+
+Valid Sudoku: Determine if a 9x9 Sudoku board is valid, given the rules of Sudoku.
+
+Minimum Window Substring: Given a string and a pattern, find the minimum window in the string that contains all the characters of the pattern.
+
+Word Pattern: Given a pattern and a string, determine if the string follows the same pattern

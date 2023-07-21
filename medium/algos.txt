@@ -1,0 +1,44 @@
+CODING ALGO---------------
+
+Sorting Algorithms: Understanding and implementing sorting algorithms like Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort, and Heap Sort. Additionally, understanding their time and space complexity is important.
+
+Searching Algorithms: Knowing different searching algorithms such as Binary Search, Linear Search, and their time complexities.
+
+Breadth-First Search (BFS): BFS is used to traverse or search in graph or tree structures level by level. Understanding its implementation and time complexity is crucial.
+
+Depth-First Search (DFS): DFS is used for traversing or searching in graph or tree structures by exploring as far as possible along each branch before backtracking. Understanding its implementation and time complexity is important.
+
+Dynamic Programming: Familiarity with the concept of dynamic programming and being able to apply it to solve optimization problems efficiently. Understanding the principles of memoization and bottom-up/tabulation approaches is essential.
+
+Graph Algorithms: Understanding and implementing graph algorithms such as Dijkstra's algorithm for finding the shortest path, Prim's algorithm and Kruskal's algorithm for finding the minimum spanning tree, and topological sorting for directed acyclic graphs (DAGs).
+
+Recursion: Being comfortable with recursive algorithms and understanding recursion stack, recursive tree, and base cases. Many problems in interviews can be solved using recursion or a combination of recursion and iteration.
+
+Divide and Conquer: Understanding the divide and conquer technique, which involves breaking down a problem into smaller subproblems, solving them independently, and combining the results.
+
+Backtracking: Understanding and implementing backtracking algorithms to solve problems by exploring all possible solutions and making choices based on constraints.
+
+String Matching: Knowing algorithms like Knuth-Morris-Pratt (KMP) algorithm and Rabin-Karp algorithm for efficient string searching or pattern matching.
+
+ARRAY ALGOS---------------------
+
+Two Pointers Technique: This technique involves using two pointers to traverse the array simultaneously. It is commonly used for problems like finding pairs that sum to a target value, removing duplicates from a sorted array, or solving problems with a sliding window.
+
+Kadane's Algorithm: Kadane's algorithm is used to find the maximum subarray sum in an array. It efficiently handles both positive and negative numbers and has a time complexity of O(n).
+
+Binary Search: Binary search is a divide and conquer algorithm used to efficiently find a target element in a sorted array. It has a time complexity of O(log n).
+
+Dutch National Flag Algorithm: The Dutch National Flag algorithm is used to sort an array containing only 0s, 1s, and 2s in linear time without using any sorting algorithm.
+
+Prefix Sum Technique: The prefix sum technique involves calculating the cumulative sum of elements in an array. It is useful for solving problems related to range queries, such as finding the sum of elements in a subarray.
+
+Sliding Window Technique: The sliding window technique involves maintaining a window of elements in an array and efficiently moving the window to solve the problem. It is commonly used for solving substring or subarray-related problems.
+
+Majority Element: The majority element algorithm finds the element that appears more than n/2 times in an array. It can be solved using different approaches like Boyer-Moore Voting Algorithm or sorting.
+
+Product of Array Except Self: This algorithm computes the product of all elements in an array except for the element at the current index. It can be solved efficiently using prefix sums or by using two passes.
+
+Merge Intervals: The merge intervals algorithm merges overlapping intervals in an array. It is often used in problems involving intervals, such as meeting room scheduling or merging calendar events.
+
+Next Permutation: The next permutation algorithm generates the next lexicographically greater permutation of a given array. It is useful for solving problems involving permutations or finding the next greater element.
+

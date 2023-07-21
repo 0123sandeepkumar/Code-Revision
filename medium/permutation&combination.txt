@@ -1,0 +1,43 @@
+PERMUTATIONS------------------------
+
+Permutations: Generate all possible permutations of a given set of elements.
+
+Next Permutation: Find the next lexicographically greater permutation of a given array.
+
+Permutations II: Generate all unique permutations of a given set of elements, considering that the input may contain duplicates.
+
+Letter Combinations of a Phone Number: Given a string containing digits, return all possible letter combinations that the number could represent on a phone keypad.
+
+Combination Sum: Given a set of candidate numbers and a target sum, find all unique combinations where the candidates sum up to the target.
+
+Combination Sum II: Given a set of candidate numbers and a target sum, find all unique combinations where the candidates sum up to the target. Each number in the candidates may only be used once.
+
+Palindrome Permutation: Given a string, determine if a permutation of it could form a palindrome.
+
+Beautiful Arrangement: Given a positive integer n, find the number of beautiful arrangements. A beautiful arrangement is one that satisfies the following condition: for each position i (1 <= i <= n), either the number at position i is divisible by i, or i is divisible by the number at position i.
+
+Generate Parentheses: Generate all valid combinations of n pairs of parentheses.
+
+Subsets: Generate all possible subsets of a given set of distinct integers.
+
+COMBINATIONS--------------------
+
+Combination Sum: Given a set of candidate numbers and a target sum, find all unique combinations where the candidates sum up to the target.
+
+Combination Sum II: Given a set of candidate numbers and a target sum, find all unique combinations where the candidates sum up to the target. Each number in the candidates may only be used once.
+
+Combination Sum III: Find all possible combinations of k numbers that add up to a given sum n. The numbers must be chosen from 1 to 9, and each combination should be a unique set of numbers.
+
+Letter Combinations of a Phone Number: Given a string containing digits, return all possible letter combinations that the number could represent on a phone keypad.
+
+Subsets: Generate all possible subsets of a given set of distinct integers.
+
+Subsets II: Generate all unique subsets of a given set of integers. The input set may contain duplicate elements, and the subsets should not contain duplicate combinations.
+
+Permutations: Generate all possible permutations of a given set of elements.
+
+Permutations II: Generate all unique permutations of a given set of elements, considering that the input may contain duplicates.
+
+Beautiful Arrangement: Given a positive integer n, find the number of beautiful arrangements. A beautiful arrangement is one that satisfies the following condition: for each position i (1 <= i <= n), either the number at position i is divisible by i, or i is divisible by the number at position i.
+
+N-Queens: Place N queens on an N×N chessboard such that no two queens threaten each other.

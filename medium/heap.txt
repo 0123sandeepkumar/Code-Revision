@@ -1,0 +1,19 @@
+Kth Largest Element in an Array: Find the kth largest element in an unsorted array using a heap.
+
+Merge k Sorted Lists: Given k sorted linked lists, merge them into a single sorted list using a heap.
+
+Top K Frequent Elements: Given an array, find the k most frequent elements using a heap.
+
+Sliding Window Maximum: Given an array and an integer k, find the maximum element in each sliding window of size k using a heap.
+
+Find Median from Data Stream: Design a data structure that supports adding integers and finding the median of the current elements using heaps.
+
+Sort Characters by Frequency: Given a string, sort the characters in descending order based on their frequency using a heap.
+
+Kth Smallest Element in a Sorted Matrix: Given an n x n matrix, where each row and column is sorted in ascending order, find the kth smallest element using a heap.
+
+Find K Pairs with Smallest Sums: Given two sorted arrays nums1 and nums2, find the k pairs with the smallest sums using a heap.
+
+Find Median of Two Sorted Arrays: Given two sorted arrays, find the median element of the combined array using a heap.
+
+IPO (Initial Public Offering): Given a list of projects with their profits and capital requirements, and initial capital, maximize the total profit by selecting projects within the available capital using a heap.
