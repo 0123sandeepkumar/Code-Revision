@@ -3,7 +3,7 @@
 using namespace std;
 
 
-// } Driver Code Ends
+// } Driver Code Endss
 
 class Solution {
   public:
