@@ -1,4 +1,4 @@
-Two Sum: Given an array of integers and a target sum, find two numbers that add up to the target.
+Two Sum: Given an array of integers and a target sum, find two numbers that add up to the target..
 
 Maximum Subarray Sum: Find the contiguous subarray with the largest sum in an array.
 
