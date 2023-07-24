@@ -1,4 +1,4 @@
-Reverse a String: Reverse a given string in-place.
+Reverse a String: Reverse a given string in-place.....
 
 Valid Palindrome: Determine if a given string is a valid palindrome, considering only alphanumeric characters and ignoring case.
 
