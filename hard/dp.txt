@@ -1,6 +1,6 @@
 Fibonacci Series: Write a dynamic programming algorithm to efficiently calculate the nth Fibonacci number.
 
-0/1 Knapsack Problem: Given a set of items, each with a weight and value, determine the maximum value you can obtain while keeping the total weight below a certain limit.
+0/1 Knapsack Problem:  Given a set of items, each with a weight and value, determine the maximum value you can obtain while keeping the total weight below a certain limit.
 
 Longest Common Subsequence: Given two strings, find the length of their longest common subsequence.
 

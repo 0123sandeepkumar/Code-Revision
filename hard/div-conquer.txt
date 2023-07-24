@@ -1,4 +1,4 @@
-Binary Search: Implement the binary search algorithm to find a target element in a sorted array.
+Binary  Search: Implement the binary search algorithm to find a target element in a sorted array.
 
 Merge Sort: Sort an array using the merge sort algorithm, which divides the array into smaller subarrays, sorts them, and merges them back together.
 

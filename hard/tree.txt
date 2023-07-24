@@ -1,4 +1,4 @@
-Validate Binary Search Tree: Given a binary tree, determine if it is a valid binary search tree (BST).
+Validate  Binary Search Tree: Given a binary tree, determine if it is a valid binary search tree (BST).
 
 Maximum Depth of Binary Tree: Find the maximum depth of a binary tree, which is the longest path from the root to any leaf node.
 

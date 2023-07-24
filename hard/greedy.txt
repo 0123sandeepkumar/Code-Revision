@@ -1,4 +1,4 @@
-Activity Selection: Given a list of activities with their start and finish times, select the maximum number of activities that can be performed without overlapping.
+Activity Selection: Given a  list of activities with their start and finish times, select the maximum number of activities that can be performed without overlapping.
 
 Fractional Knapsack: Given a set of items with their weights and values, fill a knapsack with a maximum weight capacity while maximizing the total value. Items can be divided (fractional knapsack problem).
 

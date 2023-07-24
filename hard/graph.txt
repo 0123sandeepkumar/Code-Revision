@@ -1,6 +1,6 @@
 Graph Traversal (DFS/BFS): Implement depth-first search (DFS) or breadth-first search (BFS) to traverse a graph and visit all its nodes.
 
-Connected Components: Given an undirected graph, find the number of connected components or identify the nodes in each connected component.
+Connected Components: Given an undirected graph, find the number of  connected components or identify the nodes in each connected component.
 
 Topological Sorting: Given a directed acyclic graph (DAG), perform a topological sort to order the nodes in a linear order where each node comes before its dependencies.
 
