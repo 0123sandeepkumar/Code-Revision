@@ -17,3 +17,14 @@ Word Search: Given a 2D board of letters and a word, determine if the word exist
 Palindrome Partitioning: Partition a string into all possible palindrome substrings.
 
 Restore IP Addresses: Given a string containing only digits, restore all possible valid IP address combinations.
+
+-------------------------------------------------------------------------------------------------------------------
+
+CONCEPTS:--
+uses brute force appproach (try out all possible solutions and pick up only desired one) 
+used when we want all the available multiple solutions.
+represent solution in the form of state space tree.
+bounding condition kills the node that is not satisfying the desired condition.
+dp---optimisation problem.
+backtrack---want all possible solution using dfs
+brach and bound ---- uses bfs
