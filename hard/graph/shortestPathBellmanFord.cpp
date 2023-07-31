@@ -1,6 +1,5 @@
 #include <iostream>
 #include <vector>
-#include <queue>
 #include <limits>
 
 using namespace std;
@@ -15,19 +14,29 @@ vector<vector<pair<int, int>>> graph = {
     {{0, 2}, {2, 2}}            // Node 3 is connected to nodes 0 (weight 2) and 2 (weight 2)
 };
 
-vector<int> dijkstra(int source, int numNodes) {
+vector<int> bellmanFord(int source, int numNodes) {
     vector<int> distance(numNodes, INF);
     distance[source] = 0;
 
-    priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> pq;
-    pq.push({0, source});
+    for (int i = 0; i < numNodes - 1; ++i) {
+        for (int node = 0; node < numNodes; ++node) {
+            if (distance[node] == INF)
+                continue;
 
-    while (!pq.empty()) {
-        int dist = pq.top().first;
-        int node = pq.top().second;
-        pq.pop();
+            for (const auto& edge : graph[node]) {
+                int neighbor = edge.first;
+                int weight = edge.second;
 
-        if (dist > distance[node])
+                if (distance[node] + weight < distance[neighbor]) {
+                    distance[neighbor] = distance[node] + weight;
+                }
+            }
+        }
+    }
+
+    // Check for negative cycles
+    for (int node = 0; node < numNodes; ++node) {
+        if (distance[node] == INF)
             continue;
 
         for (const auto& edge : graph[node]) {
@@ -35,8 +44,8 @@ vector<int> dijkstra(int source, int numNodes) {
             int weight = edge.second;
 
             if (distance[node] + weight < distance[neighbor]) {
-                distance[neighbor] = distance[node] + weight;
-                pq.push({distance[neighbor], neighbor});
+                cout << "Graph contains a negative cycle!" << endl;
+                exit(1);
             }
         }
     }
@@ -49,7 +58,7 @@ int main() {
     int destination = 3;
     int numNodes = graph.size();
 
-    vector<int> shortestDistances = dijkstra(source, numNodes);
+    vector<int> shortestDistances = bellmanFord(source, numNodes);
 
     cout << "Shortest distance from node " << source << " to all other nodes:" << endl;
     for (int i = 0; i < numNodes; ++i) {
