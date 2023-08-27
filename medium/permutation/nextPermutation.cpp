@@ -26,7 +26,7 @@ void nextPermutation(std::vector<int>& nums) {
     std::reverse(nums.begin() + i + 1, nums.end());
 }
 
-int main() {
+int main()  {
     std::vector<int> nums = {1, 2, 3};
 
     nextPermutation(nums);
